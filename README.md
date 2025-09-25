@@ -61,6 +61,7 @@ Displaying updated contents and size
 ## 📸 Sample Output
 
 <img width="394" height="167" alt="image" src="https://github.com/user-attachments/assets/60e3357a-4b14-436c-8cbf-2f5cd78fc611" />
+
 ## 💡 Key Learnings
 
 Practiced linked list manipulation (insertion, traversal, deletion).
